@@ -29,6 +29,6 @@
 
 		public string Password { get; set; }
 
-	    public List<int> Posts { get; set; } = new List<int>();
+	    public List<int> Posts { get; set; }
     }
 }
